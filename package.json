@@ -1,0 +1,49 @@
+{
+  "name": "personal-portfolio-joshua-siyame",
+  "version": "1.0.0",
+  "description": "My official portfolio.",
+  "main": "\"./src/index.js\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaSiyame/portfolio.git"
+  },
+  "keywords": [
+    "Joshua",
+    "Siyame"
+  ],
+  "author": "Joshua P. Siyame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaSiyame/portfolio/issues"
+  },
+  "homepage": "https://github.com/JoshuaSiyame/portfolio#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.22.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.14.1",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.8",
+    "@babel/plugin-transform-runtime": "^7.22.7",
+    "@babel/preset-env": "^7.22.7",
+    "@babel/preset-flow": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.3",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-merge": "^5.9.0"
+  }
+}
