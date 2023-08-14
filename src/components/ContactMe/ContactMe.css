@@ -1,0 +1,333 @@
+/* contact me general styles */
+/* contact me */
+#contact-me {
+    background-color: #2a2a2a;
+}
+
+/* contact me container */
+#contact-me-container {}
+
+/* contact me content container */
+#contact-me-content-container {}
+
+/* contact me intro */
+#contact-me-intro {
+    color: #e5e5e540;
+    margin: .5em 0;
+}
+
+/* contact me contents */
+#contact-me-contents {}
+
+/* contact me msg */
+#contact-me-msg {}
+
+/* contact me form */
+#contact-me-form {}
+
+/* form */
+#form {}
+
+/* form group */
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0;
+}
+
+.form-group:not(:last-child) {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* form control */
+.form-control {
+    padding: 1em 1em;
+    color: #e5e5e5;
+    background-color: #2a2a2a;
+    border: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+/* submit btn */
+.submit-btn {
+    padding: .6em;
+    font-weight: 500;
+}
+
+
+/* media queries */
+@media screen and (max-width: 320px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 15px;
+        letter-spacing: 4px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {}
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 12.5px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 20px;
+        letter-spacing: 4px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {}
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 13px;
+    }
+
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 20px;
+        letter-spacing: 5px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {}
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 13px;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 25px;
+        letter-spacing: 6px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 5em;
+    }
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 14px;
+    }
+
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 30px;
+        letter-spacing: 6px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 5em;
+    }
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (min-width: 1201px) {
+
+    /* contact me */
+    #contact-me {}
+
+    /* contact me container */
+    #contact-me-container {}
+
+    /* contact me content container */
+    #contact-me-content-container {}
+
+    /* contact me intro */
+    #contact-me-intro {
+        font-size: 35px;
+        letter-spacing: 6px;
+    }
+
+    /* contact me contents */
+    #contact-me-contents {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 5em;
+    }
+
+    /* contact me msg */
+    #contact-me-msg {}
+
+    /* contact me form */
+    #contact-me-form {}
+
+    /* form */
+    #form {}
+
+    /* form group */
+    .form-group {}
+
+    .form-group:not(:last-child) {}
+
+    /* form control */
+    .form-control {}
+
+    /* submit btn */
+    .submit-btn {
+        font-size: 15px;
+    }
+
+}
