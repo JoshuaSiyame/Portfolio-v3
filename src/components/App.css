@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -6,24 +6,245 @@
 }
 
 /* app structure */
-#app-structure{
+#app-structure {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    background-color: #2a2a2a;
 }
 
-/* project colors */
+/* project classes */
+/* element container */
+.e-container {}
 
+/* larger text */
+.larger-text {}
+
+/* section header */
+.section-header {
+    color: #fff;
+    font-weight: 500;
+}
+
+/* section sub-header-1 */
+.section-sub-header-1 {
+    color: #ffffff80;
+    font-weight: 500;
+}
+
+/* section sub-header-2 */
+.section-sub-header-2 {}
+
+/* intro text */
+.intro-text {}
+
+/* normal text */
+.normal-text {
+    color: #fff;
+    margin: 1em 0;
+}
 
 /* app container media queries */
-@media screen and (max-width: 320px){}
+@media screen and (max-width: 320px) {
 
-@media (min-width: 321px) and (max-width: 480px){}
+    /* element container */
+    .e-container {
+        border: 2px solid fuchsia;
+        padding-left: 1em;
+        padding-right: 1em;
+    }
 
-@media (min-width: 481px) and (max-width: 768px){}
+    /* larger text */
+    .larger-text {}
 
-@media (min-width: 769px) and (max-width: 1024px){}
+    /* section header */
+    .section-header {
+        font-size: 25px;
+    }
 
-@media (min-width: 1025px) and (max-width: 1200px){}
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 17px;
+    }
 
-@media screen and (min-width: 1201px){}
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 12.5px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+
+    /* element container */
+    .e-container {
+        border: 2px solid chartreuse;
+        padding-left: 1.5em;
+        padding-right: 1.5em;
+    }
+
+    /* larger text */
+    .larger-text {}
+
+    /* section header */
+    .section-header {
+        font-size: 30px;
+    }
+
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 18px;
+    }
+
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+    /* element container */
+    .e-container {
+        border: 2px solid mediumvioletred;
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    /* larger text */
+    .larger-text {}
+
+    /* section header */
+    .section-header {
+        font-size: 30px;
+    }
+
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 18px;
+    }
+
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    /* element container */
+    .e-container {
+        border: 2px solid crimson;
+        padding-left: 3em;
+        padding-right: 3em;
+    }
+
+    /* larger text */
+    .larger-text {}
+
+    /* section header */
+    .section-header {
+        font-size: 35px;
+    }
+
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 19px;
+    }
+
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    /* element container */
+    .e-container {
+        border: 2px solid orangered;
+        padding-left: 5em;
+        padding-right: 5em;
+    }
+
+    /* larger text */
+    .larger-text {}
+
+    /* section header */
+    .section-header {
+        font-size: 40px;
+    }
+
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 19px;
+    }
+
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 1201px) {
+
+    /* element container */
+    .e-container {
+        border: 2px solid tea;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+    /* larger text */
+    .larger-text {}
+
+    /* section header */
+    .section-header {
+        font-size: 50px;
+    }
+
+    /* section sub-header-1 */
+    .section-sub-header-1 {
+        font-size: 20px;
+    }
+
+    /* section sub-header-2 */
+    .section-sub-header-2 {}
+
+    /* intro text */
+    .intro-text {}
+
+    /* normal text */
+    .normal-text {
+        font-size: 16px;
+    }
+}
