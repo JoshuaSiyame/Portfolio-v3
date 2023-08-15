@@ -39,6 +39,11 @@
     border-bottom: 1px solid #e5e5e5;
 }
 
+/* invalid email border red */
+.invalid-email{
+    border-bottom: 1px solid rgba(255, 0, 0, 0.8);
+}
+
 /* form control */
 .form-control {
     padding: 1em 1em;
@@ -53,6 +58,7 @@
 .submit-btn {
     padding: .6em;
     font-weight: 500;
+    margin: 1em 0;
 }
 
 
