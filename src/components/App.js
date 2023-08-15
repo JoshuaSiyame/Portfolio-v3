@@ -5,12 +5,14 @@ import "./App.css";
 // import components
 import Footer from "./Utils/Footer/Footer"
 import ContactMe from "./ContactMe/ContactMe";
+import Projects from "./Projects/Projects";
 
 // app component
 const App = () => {
 
     return (
         <div id="app-structure">
+            <Projects />
             <ContactMe />
             <Footer />
         </div>
