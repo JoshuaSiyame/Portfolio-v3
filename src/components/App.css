@@ -49,7 +49,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid fuchsia;
+        /* border: 2px solid fuchsia; */
         padding-left: 1em;
         padding-right: 1em;
     }
@@ -83,7 +83,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid chartreuse;
+        /* border: 2px solid chartreuse; */
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
@@ -117,7 +117,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid mediumvioletred;
+        /* border: 2px solid mediumvioletred; */
         padding-left: 2em;
         padding-right: 2em;
     }
@@ -151,7 +151,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid crimson;
+        /* border: 2px solid crimson; */
         padding-left: 3em;
         padding-right: 3em;
     }
@@ -185,7 +185,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid orangered;
+        /* border: 2px solid orangered; */
         padding-left: 5em;
         padding-right: 5em;
     }
@@ -219,7 +219,7 @@
 
     /* element container */
     .e-container {
-        border: 2px solid tea;
+        /* border: 2px solid teal; */
         max-width: 1000px;
         margin: 0 auto;
     }
