@@ -108,7 +108,10 @@
     #what-i-do {}
 
     /* what i do container */
-    #what-i-do-container {}
+    #what-i-do-container {
+        padding-top: 3.5em;
+        padding-bottom: 3.5em;
+    }
 
     /* what i do content */
     #what-i-do-content {}

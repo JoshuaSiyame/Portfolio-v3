@@ -131,7 +131,10 @@
     #profile {}
 
     /* profile container */
-    #profile-container {}
+    #profile-container {
+        padding-top: 3.5em;
+        padding-bottom: 3.5em;
+    }
 
     /* profile contents */
     #profile-contents {
