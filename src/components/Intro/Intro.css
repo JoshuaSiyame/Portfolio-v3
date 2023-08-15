@@ -107,7 +107,10 @@
     #intro {}
 
     /* intro container */
-    #intro-container {}
+    #intro-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* intro contents */
     #intro-contents {

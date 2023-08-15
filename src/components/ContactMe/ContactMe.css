@@ -115,7 +115,10 @@
     #contact-me {}
 
     /* contact me container */
-    #contact-me-container {}
+    #contact-me-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* contact me content container */
     #contact-me-content-container {}

@@ -86,7 +86,10 @@
     #profile {}
 
     /* profile container */
-    #profile-container {}
+    #profile-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* profile contents */
     #profile-contents {

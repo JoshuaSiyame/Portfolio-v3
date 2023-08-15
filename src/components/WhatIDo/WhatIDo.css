@@ -78,7 +78,10 @@
     #what-i-do {}
 
     /* what i do container */
-    #what-i-do-container {}
+    #what-i-do-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* what i do content */
     #what-i-do-content {}

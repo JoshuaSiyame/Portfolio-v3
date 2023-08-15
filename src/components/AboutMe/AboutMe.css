@@ -71,7 +71,10 @@
     #about-me {}
 
     /* about me container */
-    #about-me-container {}
+    #about-me-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* about me content */
     #about-me-content {}

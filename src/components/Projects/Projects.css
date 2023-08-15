@@ -95,7 +95,10 @@
     #projects {}
 
     /* projects container */
-    #projects-container {}
+    #projects-container {
+        padding-top: 3em;
+        padding-bottom: 3em;
+    }
 
     /* projects card */
     #projects-cards-container {
