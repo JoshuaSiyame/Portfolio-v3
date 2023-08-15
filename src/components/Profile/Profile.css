@@ -173,7 +173,10 @@
     #profile {}
 
     /* profile container */
-    #profile-container {}
+    #profile-container {
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
 
     /* profile contents */
     #profile-contents {

@@ -190,7 +190,10 @@
     }
 
     /* projects container */
-    #projects-container {}
+    #projects-container {
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
 
     /* projects card */
     #projects-cards-container {

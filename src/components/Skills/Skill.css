@@ -124,7 +124,10 @@
     #skills {}
 
     /* skill container */
-    #skill-container {}
+    #skills-container {
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
 
     /* skills contents */
     #skills-contents {

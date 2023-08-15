@@ -209,7 +209,10 @@
     #intro {}
 
     /* intro container */
-    #intro-container {}
+    #intro-container {
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
 
     /* intro contents */
     #intro-contents {

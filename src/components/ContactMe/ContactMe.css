@@ -209,7 +209,10 @@
     #contact-me {}
 
     /* contact me container */
-    #contact-me-container {}
+    #contact-me-container {
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
 
     /* contact me content container */
     #contact-me-content-container {}
