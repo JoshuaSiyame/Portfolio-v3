@@ -1,6 +1,8 @@
 /* general skills styles */
 /* skills */
-#skills {}
+#skills {
+    background-color: #2a2a2a;
+}
 
 /* skill container */
 #skill-container {}
