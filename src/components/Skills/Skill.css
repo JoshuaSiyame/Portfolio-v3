@@ -1,0 +1,183 @@
+/* general skills styles */
+/* skills */
+#skills {}
+
+/* skill container */
+#skill-container {}
+
+/* skills contents */
+#skills-content {}
+
+/* skill set */
+#skill-set {}
+
+/* skill-list */
+.skill-list {
+    padding-left: 1.3em;
+}
+
+/* skill list item */
+.skill-list-item {
+    list-style: disc;
+}
+
+/* media queries */
+@media screen and (max-width: 320px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1em;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2em;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 2em;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: space-between;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: space-between;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
+
+@media screen and (min-width: 1201px) {
+
+    /* skills */
+    #skills {}
+
+    /* skill container */
+    #skill-container {}
+
+    /* skills contents */
+    #skills-contents {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: space-between;
+    }
+
+    /* skill set */
+    #skill-set {}
+
+    /* skill-list */
+    .skill-list {}
+
+    /* skill list item */
+    .skill-list-item {}
+}
