@@ -184,7 +184,10 @@
     #about-me {}
 
     /* about me container */
-    #about-me-container {}
+    #about-me-container {
+        padding-top: 4.5em;
+        padding-bottom: 4.5em;
+    }
 
     /* about me content */
     #about-me-content {}

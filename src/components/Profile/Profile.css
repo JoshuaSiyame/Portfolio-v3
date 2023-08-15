@@ -220,7 +220,10 @@
     #profile {}
 
     /* profile container */
-    #profile-container {}
+    #profile-container {
+        padding-top: 4.5em;
+        padding-bottom: 4.5em;
+    }
 
     /* profile contents */
     #profile-contents {

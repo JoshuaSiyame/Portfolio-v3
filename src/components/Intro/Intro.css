@@ -260,7 +260,10 @@
     #intro {}
 
     /* intro container */
-    #intro-container {}
+    #intro-container {
+        padding-top: 4.5em;
+        padding-bottom: 4.5em;
+    }
 
     /* intro contents */
     #intro-contents {

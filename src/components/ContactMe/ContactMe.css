@@ -260,7 +260,10 @@
     #contact-me {}
 
     /* contact me container */
-    #contact-me-container {}
+    #contact-me-container {
+        padding-top: 4.5em;
+        padding-bottom: 4.5em;
+    }
 
     /* contact me content container */
     #contact-me-content-container {}
