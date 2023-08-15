@@ -16,9 +16,74 @@ const Projects = () =>{
             <div id="projects-container" className="e-container">
                 <div id="projects-contents">
                     <h1 className="section-header">Projects</h1>
-                    <div id="project-cards">
+                    <div id="projects-cards-container">
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
+                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={Pv3} alt="" className="project-img" />
+                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={Pv3} alt="" className="project-img" />
+                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={Pv3} alt="" className="project-img" />
+                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={Pv3} alt="" className="project-img" />
+                            <p className="normal-text"><strong>Portfolio</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
