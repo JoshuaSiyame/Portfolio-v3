@@ -33,7 +33,10 @@
     #about-me {}
 
     /* about me container */
-    #about-me-container {}
+    #about-me-container {
+        padding-top: 2.5em;
+        padding-bottom: 2.5em;
+    }
 
     /* about me content */
     #about-me-content {}
@@ -206,7 +209,10 @@
     #about-me {}
 
     /* about me container */
-    #about-me-container {}
+    #about-me-container {
+        padding-top: 5em;
+        padding-bottom: 5em;
+    }
 
     /* about me content */
     #about-me-content {}

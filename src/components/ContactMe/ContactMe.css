@@ -69,7 +69,10 @@
     #contact-me {}
 
     /* contact me container */
-    #contact-me-container {}
+    #contact-me-container {
+        padding-top: 2.5em;
+        padding-bottom: 2.5em;
+    }
 
     /* contact me content container */
     #contact-me-content-container {}
@@ -296,7 +299,10 @@
     #contact-me {}
 
     /* contact me container */
-    #contact-me-container {}
+    #contact-me-container {
+        padding-top: 5em;
+        padding-bottom: 10em;
+    }
 
     /* contact me content container */
     #contact-me-content-container {}

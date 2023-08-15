@@ -59,7 +59,10 @@
     #projects {}
 
     /* projects container */
-    #projects-container {}
+    #projects-container {
+        padding-top: 2.5em;
+        padding-bottom: 2.5em;
+    }
 
     /* projects card */
     #projects-cards-container {
@@ -270,7 +273,10 @@
     #projects {}
 
     /* projects container */
-    #projects-container {}
+    #projects-container {
+        padding-top: 5em;
+        padding-bottom: 5em;
+    }
 
     /* projects card */
     #projects-cards-container {

@@ -30,7 +30,10 @@
     #skills {}
 
     /* skill container */
-    #skill-container {}
+    #skills-container {
+        padding-top: 2.5em;
+        padding-bottom: 2.5em;
+    }
 
     /* skills contents */
     #skills-contents {
@@ -165,7 +168,10 @@
     #skills {}
 
     /* skill container */
-    #skill-container {}
+    #skill-container {
+        padding-top: 5em;
+        padding-bottom: 5em;
+    }
 
     /* skills contents */
     #skills-contents {
