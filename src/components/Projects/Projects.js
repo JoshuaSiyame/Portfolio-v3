@@ -22,7 +22,7 @@ const Projects = () =>{
                             <p className="normal-text"><strong>Portfolio</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
-                                    <a href="" className="card-list-item-link">
+                                    <a href="https://github.com/JoshuaSiyame/Portfolio-v3" className="card-list-item-link">
                                         <FaGithub size={25} color="#e5e5e5" />
                                     </a>
                                 </li>
