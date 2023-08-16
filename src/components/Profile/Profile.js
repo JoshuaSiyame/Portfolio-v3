@@ -10,7 +10,7 @@ const Profile = () => {
     return (
         <div id="profile">
             <div id="profile-container" className="e-container">
-                <h1 className="section-header">Profile</h1>
+                <h1 className="section-header section-header-position">Profile</h1>
                 <div id="profile-contents">
                     <div id="profile-about-me-container">
                         <h2 className="section-sub-header-1">About Me</h2>

@@ -15,7 +15,7 @@ const Projects = () =>{
         <div id="projects">
             <div id="projects-container" className="e-container">
                 <div id="projects-contents">
-                    <h1 className="section-header">Projects</h1>
+                    <h1 className="section-header section-header-position">Projects</h1>
                     <div id="projects-cards-container">
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
@@ -35,7 +35,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
-                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <p className="normal-text"><strong>E - Commerce</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
@@ -51,7 +51,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
-                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <p className="normal-text"><strong>Real Time Video chat</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
@@ -67,7 +67,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
-                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <p className="normal-text"><strong>Social media app</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
@@ -83,7 +83,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={Pv3} alt="" className="project-img" />
-                            <p className="normal-text"><strong>Portfolio</strong></p>
+                            <p className="normal-text"><strong>Blog</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">

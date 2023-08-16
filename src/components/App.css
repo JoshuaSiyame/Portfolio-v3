@@ -26,6 +26,9 @@
     font-weight: 500;
 }
 
+/* section header position */
+.section-header-position {}
+
 /* section sub-header-1 */
 .section-sub-header-1 {
     color: #ffffff80;
@@ -62,6 +65,15 @@
         font-size: 25px;
     }
 
+    /* section header position */
+    .section-header-position {
+        margin-bottom: .8em;
+        text-align: left;
+    }
+
+    /* section header position */
+    .section-header-position {}
+
     /* section sub-header-1 */
     .section-sub-header-1 {
         font-size: 17px;
@@ -95,6 +107,15 @@
     .section-header {
         font-size: 30px;
     }
+
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1em;
+        text-align: left;
+    }
+
+    /* section header position */
+    .section-header-position {}
 
     /* section sub-header-1 */
     .section-sub-header-1 {
@@ -130,6 +151,15 @@
         font-size: 30px;
     }
 
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1em;
+        text-align: left;
+    }
+
+    /* section header position */
+    .section-header-position {}
+
     /* section sub-header-1 */
     .section-sub-header-1 {
         font-size: 18px;
@@ -145,6 +175,21 @@
     .normal-text {
         font-size: 13px;
     }
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+
+    /* section header */
+    .section-header {
+        font-size: 30px;
+    }
+
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1em;
+        text-align: center;
+    }
+
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
@@ -163,6 +208,15 @@
     .section-header {
         font-size: 35px;
     }
+
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1.25em;
+        text-align: center;
+    }
+
+    /* section header position */
+    .section-header-position {}
 
     /* section sub-header-1 */
     .section-sub-header-1 {
@@ -198,6 +252,15 @@
         font-size: 40px;
     }
 
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1.25em;
+        text-align: center;
+    }
+
+    /* section header position */
+    .section-header-position {}
+
     /* section sub-header-1 */
     .section-sub-header-1 {
         font-size: 19px;
@@ -230,6 +293,18 @@
     /* section header */
     .section-header {
         font-size: 50px;
+    }
+
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1.5em;
+        text-align: center;
+    }
+
+    /* section header position */
+    .section-header-position {
+        margin-bottom: 1.5em;
+        text-align: center;
     }
 
     /* section sub-header-1 */

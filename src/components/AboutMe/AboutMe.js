@@ -11,7 +11,7 @@ const AboutMe = () => {
         <div id="about-me">
             <div id="about-me-container" className="e-container">
                 <div id="about-me-content">
-                    <h1 className="section-header">About Me</h1>
+                    <h1 className="section-header section-header-position">About Me</h1>
                     <div id="about-me-contents-container">
                         <div id="about-me-text">
                             <p className="normal-text">
