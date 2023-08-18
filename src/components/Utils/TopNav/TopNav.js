@@ -31,6 +31,9 @@ const TopNav = () => {
                             <a href="/" className="nav-item-link" onClick={handleUnToggle}>Home</a>
                         </li>
                         <li className="nav-item">
+                            <a href="https://drive.google.com/file/d/1Vacpx5zcS3KqguMeNR_F1HT-PQn3wCfT/view?usp=drive_link" target="_blank" className="nav-item-link" onClick={handleUnToggle}>Resume</a>
+                        </li>
+                        <li className="nav-item">
                             <a href="#profile" className="nav-item-link" onClick={handleUnToggle}>Profile</a>
                         </li>
                         <li className="nav-item">
