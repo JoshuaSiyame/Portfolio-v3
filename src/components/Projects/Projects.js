@@ -9,6 +9,7 @@ import { MdPreview } from "react-icons/md";
 // import image
 import Pv3 from "./portfolioV3.png";
 import SUF from "./suf.png";
+import GT from "./social-app1.png";
 
 // projects components
 const Projects = () =>{
@@ -67,7 +68,7 @@ const Projects = () =>{
                             </ol>
                         </div>
                         <div className="project-card">
-                            <img src={Pv3} alt="" className="project-img" />
+                            <img src={GT} alt="" className="project-img" />
                             <p className="normal-text"><strong>Social media app</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
