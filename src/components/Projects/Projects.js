@@ -10,6 +10,8 @@ import { MdPreview } from "react-icons/md";
 import Pv3 from "./portfolioV3.png";
 import SUF from "./suf.png";
 import GT from "./social-app1.png";
+import VC from "./videochat.png";
+import HW from "./helloworld.png"
 
 // projects components
 const Projects = () =>{
@@ -52,7 +54,7 @@ const Projects = () =>{
                             </ol>
                         </div>
                         <div className="project-card">
-                            <img src={Pv3} alt="" className="project-img" />
+                            <img src={VC} alt="" className="project-img" />
                             <p className="normal-text"><strong>Real Time Video chat</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
@@ -110,6 +112,22 @@ const Projects = () =>{
                                 </li>
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={HW} alt="" className="project-img" />
+                            <p className="normal-text"><strong>"Hello, World 😃😂"</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="https://github.com/JoshuaSiyame/Hello-world" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="https://jps-hello-world.netlify.app" className="card-list-item-link">
                                         <MdPreview size={25} color="#e5e5e5" />
                                     </a>
                                 </li>

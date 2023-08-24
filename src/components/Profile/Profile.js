@@ -35,11 +35,11 @@ const Profile = () => {
                             </li>
                             <li className="normal-text details-list-item">
                                 <span style={{ display: "block", margin: ".5em 0" }}><strong>Age:</strong></span>
-                                <span style={{ display: "block", margin: ".5em 0" }}>24</span>
+                                <span style={{ display: "block", margin: ".5em 0" }}>24 yrs</span>
                             </li>
                             <li className="normal-text details-list-item">
                                 <span style={{ display: "block", margin: ".5em 0" }}><strong>Location:</strong></span>
-                                <span style={{ display: "block", margin: ".5em 0" }}>Tanzania</span>
+                                <span style={{ display: "block", margin: ".5em 0" }}>Dar-es-Salaam, Tanzania</span>
                             </li>
                         </ol>
                     </div>

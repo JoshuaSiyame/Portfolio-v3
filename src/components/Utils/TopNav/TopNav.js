@@ -52,7 +52,7 @@ const TopNav = () => {
                             <a href="#contact-me" className="nav-item-link" onClick={handleUnToggle}>Contact Me</a>
                         </li>
                     </ol>
-                    {toggle? <FaTimes size={25} color="#2a2a2a" onClick={handleUnToggle} />: <FaBars size={25} color="#2a2a2a" onClick={handleToggle}/>}
+                    {toggle? <FaTimes size={25} color="#2a2a2a" onClick={handleUnToggle} className="toggleBtn" />: <FaBars size={25} color="#2a2a2a" onClick={handleToggle}/>}
                 </div>
             </div>
         </div>
