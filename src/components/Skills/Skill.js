@@ -38,6 +38,7 @@ const Skills = () => {
                     <div className="skill-set">
                         <h2 className="section-sub-header-1">Miscellaneous</h2><small style={{ color: "#e5e5e5" }}>(Currently Learning)</small>
                         <ol className="skill-list">
+                        <li className="normal-text skill-list-item">DevOps</li>
                             <li className="normal-text skill-list-item">React-Native</li>
                             <li className="normal-text skill-list-item">Android Studio</li>
                             <li className="normal-text skill-list-item">Solidity</li>
