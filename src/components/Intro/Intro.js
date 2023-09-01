@@ -15,7 +15,7 @@ const Intro = () => {
                         <span id="golden-yellow-dot"></span>
                         <h1 id="intro-greeting">Hi, I'm Joshua Siyame</h1>
                         <p className="normal-text intro-text">
-                            Full-Stack JavaScript/TypeScript Developer with a proven track
+                            Full-Stack JavaScript / TypeScript Developer with a proven track
                             record of delivering innovative software solutions
                         </p>
                         <a href="#contact-me">
