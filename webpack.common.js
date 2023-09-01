@@ -20,7 +20,7 @@ module.exports = {
                 use: ["style-loader", "css-loader"]
             },
             {
-                test: /\.(png|jpe?g|gif)/,
+                test: /\.(png|jpe?g|gif|JPG)/,
                 exclude: /node_modules/,
                 use: "file-loader"
             }
