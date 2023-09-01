@@ -71,12 +71,12 @@ const ContactMe = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.twitter.com/joshuasiyame" target="_blank">
+                                        <a href="https://twitter.com/j_siyame" target="_blank">
                                             <FaTwitter size={25} color="#e5e5e5" />
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.linkedin.com/joshuasiyame" target="_blank">
+                                        <a href="https://www.linkedin.com/in/joshua-siyame-a069ab282" target="_blank">
                                             <FaLinkedin size={25} color="#e5e5e5" />
                                         </a>
                                     </li>
