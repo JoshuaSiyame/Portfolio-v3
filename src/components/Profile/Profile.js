@@ -3,7 +3,7 @@ import React from "react";
 import "./Profile.css";
 
 // import profile image
-import ProfileImg from "./profile_img.jpg";
+import ProfileImg from "./profileImg.jpg";
 
 // profile component 
 const Profile = () => {

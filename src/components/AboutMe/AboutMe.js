@@ -3,7 +3,7 @@ import React from "react";
 import "./AboutMe.css";
 
 // import image
-import AboutMeImg from "./about_me_img.jpg";
+import AboutMeImg from "./aboutMeImg.jpg";
 
 // about me component 
 const AboutMe = () => {
