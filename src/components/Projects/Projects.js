@@ -13,6 +13,7 @@ import GT from "./social-app1.png";
 import VC from "./videochat.png";
 import HW from "./helloworld.png";
 import BL from "./blog.png";
+import EC from "./ecommerce.png";
 
 // projects components
 const Projects = () =>{
@@ -39,7 +40,7 @@ const Projects = () =>{
                             </ol>
                         </div>
                         <div className="project-card">
-                            <img src={Pv3} alt="" className="project-img" />
+                            <img src={EC} alt="" className="project-img" />
                             <p className="normal-text"><strong>E - Commerce (Coming soon)</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
