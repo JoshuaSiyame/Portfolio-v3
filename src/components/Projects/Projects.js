@@ -13,7 +13,7 @@ import GT from "./social-app1.png";
 import VC from "./videochat.png";
 import HW from "./helloworld.png";
 import BL from "./blog.png";
-import EC from "./ecommerce.png";
+import EC from "./ecommercefinal.png";
 
 // projects components
 const Projects = () =>{
