@@ -25,7 +25,13 @@
 
 /* main nav */
 #main-nav {
-    display: none;
+    /* display: none; */
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    top: -100%;
+    transition: top .5s ease-in-out;
 }
 
 #main-nav-active{
@@ -34,9 +40,10 @@
     background-color: rgba(42, 42, 42, 0.8);
     width: 100%;
     height: 100vh;
-    top: 5em;
+    top: 4.3em;
     left: 0;
     text-align: center;
+    transition: top .5s ease-in-out;
 }
 
 /* nav item */
