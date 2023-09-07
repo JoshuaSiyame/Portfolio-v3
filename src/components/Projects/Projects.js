@@ -12,7 +12,7 @@ import SUF from "./suf.png";
 import GT from "./social-app1.png";
 import VC from "./videochat.png";
 import HW from "./helloworld.png";
-import BL from "./blog.png";
+import BL from "./finalblog.png";
 import EC from "./ecommercefinal.png";
 import MS from "./moviesite.png";
 
