@@ -14,6 +14,7 @@ import VC from "./videochat.png";
 import HW from "./helloworld.png";
 import BL from "./blog.png";
 import EC from "./ecommercefinal.png";
+import MS from "./moviesite.png";
 
 // projects components
 const Projects = () =>{
@@ -42,6 +43,22 @@ const Projects = () =>{
                         <div className="project-card">
                             <img src={EC} alt="" className="project-img" />
                             <p className="normal-text"><strong>E - Commerce (Coming soon)</strong></p>
+                            <ol id="card-list">
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <FaGithub size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                                <li className="card-list-item">
+                                    <a href="" className="card-list-item-link">
+                                        <MdPreview size={25} color="#e5e5e5" />
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                        <div className="project-card">
+                            <img src={MS} alt="" className="project-img" />
+                            <p className="normal-text"><strong>MovieSite (Coming soon)</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
