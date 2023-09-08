@@ -106,7 +106,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={BL} alt="" className="project-img" />
-                            <p className="normal-text"><strong>Blog (coming soon)</strong></p>
+                            <p className="normal-text"><strong>Blog (status: CI/CD)</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="https://github.com/JoshuaSiyame/JoshTechArticles" className="card-list-item-link">
