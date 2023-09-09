@@ -109,12 +109,12 @@ const Projects = () =>{
                             <p className="normal-text"><strong>Blog (status: CI/CD)</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
-                                    <a href="https://github.com/JoshuaSiyame/JoshTechArticles" className="card-list-item-link">
+                                    <a href="https://github.com/JoshuaSiyame/Josh-Tech-Articles" className="card-list-item-link">
                                         <FaGithub size={25} color="#e5e5e5" />
                                     </a>
                                 </li>
                                 <li className="card-list-item">
-                                    <a href="" className="card-list-item-link">
+                                    <a href="https://joshtecharticles.netlify.app/" className="card-list-item-link">
                                         <MdPreview size={25} color="#e5e5e5" />
                                     </a>
                                 </li>
