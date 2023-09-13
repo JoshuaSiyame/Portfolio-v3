@@ -58,7 +58,7 @@ const Projects = () =>{
                         </div>
                         <div className="project-card">
                             <img src={MS} alt="" className="project-img" />
-                            <p className="normal-text"><strong>MovieSite (Coming soon)</strong></p>
+                            <p className="normal-text"><strong>MovieSite (status: CI/CD)</strong></p>
                             <ol id="card-list">
                                 <li className="card-list-item">
                                     <a href="" className="card-list-item-link">
