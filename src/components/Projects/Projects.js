@@ -66,7 +66,7 @@ const Projects = () =>{
                                     </a>
                                 </li>
                                 <li className="card-list-item">
-                                    <a href="" className="card-list-item-link">
+                                    <a href="https://moviesfiles.netlify.app" className="card-list-item-link">
                                         <MdPreview size={25} color="#e5e5e5" />
                                     </a>
                                 </li>
